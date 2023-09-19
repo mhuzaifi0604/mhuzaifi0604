@@ -43,7 +43,7 @@ src="https://github.com/huzaifi0604/huzaifi0604/blob/main/pics/2020-splunk-plane
 
  ## 🚀 My Projects:
 <p align="center">
-  <a href="https://github.com/mhuzaifi0604/Port-Knocker)">
+  <a href="https://github.com/mhuzaifi0604/Port-Knocker">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=mhuzaifi0604&repo=Port-Knocker&hide_border=true&border_radius=15&&line_height=24&title_color=020024&text_color=ffffff&icon_color=79dafa&bg_color=45,C06C84,6C5B7B,355C7D" /></a>
   
  
