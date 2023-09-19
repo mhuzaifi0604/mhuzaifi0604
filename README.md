@@ -40,3 +40,26 @@ src="https://github.com/huzaifi0604/huzaifi0604/blob/main/pics/2020-splunk-plane
  <p align="center">
 
  <p>&nbsp;</p>
+
+ ## 🚀 My Projects:
+<p align="center">
+  <a href="https://github.com/mhuzaifi0604/Port-Knocker)">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mhuzaifi0604&repo=Port-Knocker&hide_border=true&border_radius=15&&line_height=24&title_color=020024&text_color=ffffff&icon_color=79dafa&bg_color=45,C06C84,6C5B7B,355C7D" /></a>
+  
+ 
+   <a href="https://github.com/mhuzaifi0604/Resume-Hunter">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mhuzaifi0604&repo=Resume-Hunter&hide_border=true&border_radius=15&&line_height=24&title_color=020024&text_color=ffffff&icon_color=79dafa&bg_color=45,C06C84,6C5B7B,355C7D" /></a>
+
+  <a href="https://github.com/mhuzaifi0604/Sorting-Visualizer">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mhuzaifi0604&repo=Sorting-Visualizer&hide_border=true&border_radius=15&&line_height=24&title_color=020024&text_color=ffffff&icon_color=79dafa&bg_color=45,C06C84,6C5B7B,355C7D" /></a>
+
+  <a href="https://github.com/mhuzaifi0604/Innocent-Shell">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mhuzaifi0604&repo=Innocent-Shell&hide_border=true&border_radius=15&&line_height=24&title_color=020024&text_color=ffffff&icon_color=79dafa&bg_color=45,C06C84,6C5B7B,355C7D" /></a>
+
+  <a href="https://github.com/mhuzaifi0604/Debit-Hub">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mhuzaifi0604&repo=Debit-Hub&hide_border=true&border_radius=15&&line_height=24&title_color=020024&text_color=ffffff&icon_color=79dafa&bg_color=45,C06C84,6C5B7B,355C7D" /></a>
+
+  <a href="https://github.com/mhuzaifi0604/Learning-Management-System">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mhuzaifi0604&repo=Learning-Management-System&hide_border=true&border_radius=15&&line_height=24&title_color=020024&text_color=ffffff&icon_color=79dafa&bg_color=45,C06C84,6C5B7B,355C7D" /></a>
+
+  
