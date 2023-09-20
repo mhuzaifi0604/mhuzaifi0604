@@ -48,19 +48,19 @@ src="https://github.com/huzaifi0604/huzaifi0604/blob/main/pics/2020-splunk-plane
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=mhuzaifi0604&repo=Innocent-Shell&hide_border=true&border_radius=15&&line_height=30&title_color=020024&text_color=ffffff&icon_color=79dafa&bg_color=45,C06C84,6C5B7B,355C7D&random=420" /></a>
 
  <a href="https://github.com/mhuzaifi0604/spellbound">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mhuzaifi0604&repo=spellbound&hide_border=true&border_radius=15&&line_height=30&title_color=020024&text_color=ffffff&icon_color=79dafa&bg_color=45,C06C84,6C5B7B,355C7D&random=466" /></a>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mhuzaifi0604&repo=spellbound&hide_border=true&border_radius=15&&line_height=30&title_color=020024&text_color=ffffff&icon_color=79dafa&bg_color=45,C06C84,6C5B7B,355C7D&random=664" /></a>
 
   <a href="https://github.com/mhuzaifi0604/Sorting-Visualizer">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mhuzaifi0604&repo=Sorting-Visualizer&hide_border=true&border_radius=15&&line_height=30&title_color=020024&text_color=ffffff&icon_color=79dafa&bg_color=45,C06C84,6C5B7B,355C7D&random=456" /></a>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mhuzaifi0604&repo=Sorting-Visualizer&hide_border=true&border_radius=15&&line_height=30&title_color=020024&text_color=ffffff&icon_color=79dafa&bg_color=45,C06C84,6C5B7B,355C7D&random=654" /></a>
 
 <a href="https://github.com/mhuzaifi0604/Port-Knocker">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mhuzaifi0604&repo=port-knocker&hide_border=true&border_radius=15&&line_height=30&title_color=020024&text_color=ffffff&icon_color=79dafa&bg_color=45,C06C84,6C5B7B,355C7D&random=343" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mhuzaifi0604&repo=port-knocker&hide_border=true&border_radius=15&&line_height=30&title_color=020024&text_color=ffffff&icon_color=79dafa&bg_color=45,C06C84,6C5B7B,355C7D&random=362" />
 </a>
 
   <a href="https://github.com/mhuzaifi0604/Debit-Hub">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mhuzaifi0604&repo=Debit-Hub&hide_border=true&border_radius=15&&line_height=30&title_color=020024&text_color=ffffff&icon_color=79dafa&bg_color=45,C06C84,6C5B7B,355C7D&random=759" /></a>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mhuzaifi0604&repo=Debit-Hub&hide_border=true&border_radius=15&&line_height=30&title_color=020024&text_color=ffffff&icon_color=79dafa&bg_color=45,C06C84,6C5B7B,355C7D&random=957" /></a>
 
   <a href="https://github.com/mhuzaifi0604/Learning-Management-System">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mhuzaifi0604&repo=Learning-Management-System&hide_border=true&border_radius=15&&line_height=30&title_color=020024&text_color=ffffff&icon_color=79dafa&bg_color=45,C06C84,6C5B7B,355C7D&random=758" /></a>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mhuzaifi0604&repo=Learning-Management-System&hide_border=true&border_radius=15&&line_height=30&title_color=020024&text_color=ffffff&icon_color=79dafa&bg_color=45,C06C84,6C5B7B,355C7D&random=857" /></a>
 
   
