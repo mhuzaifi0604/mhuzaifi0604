@@ -1,4 +1,4 @@
-<h1 align="center"> Hi there 👋, I'm Huzaifa</h1>
+<h1 align="center">Hi there 👋, I'm Huzaifa</h1>
 
 <h2 align="center"> A passionate Secure Full Stack Developer looking to collaborate on innovative development programs & performing security testing on them.</h2>
 
