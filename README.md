@@ -2,15 +2,13 @@
 
 <h2 align="center"> A passionate Secure Full Stack Developer looking to collaborate on innovative development programs & performing security testing on them.</h2>
 
-* 🔭 I’m currently enrolled in bachelors program for Cyber Security & Digital Forensics.
-* 👨‍⚖️ Cyber Defense and Network Security Intern at Thincscorp 
+* 🔭 I’m a final year undergrad in Cyber Security at FAST - NUCES.
+* 👨‍⚖️ Cyber Defense and Network Security Intern at Thincscorp
+* 👩‍💻 Front-Developer at Codeaza Technologies, Islamabad.
 * 🧑‍💻 Trainer at Cyber Space Legion at FAST-NUCES
-* 👯 I’m looking to collaborate on
-     - Security Related Projects
-     - Software/ Mobile App Development
-     - Programming in C++, C, Java, x86 Assembly
-* 💬 Ask me about Anything
-* 😄 Pronouns: He
+* 📞 Connect with me to ask about full-stack Development (MERN, Flask, FastAPI), Malware analysis, Penetration testing & digital Forensics 
+* 👯 Looking to collaborate on Security related projects, let they be secure development program or even security testing of websites, softwares and code reviews.
+
 ## Languages
 <p align="center">
 <img src="https://github.com/SABERGLOW/SABERGLOW/blob/master/Misc/image%20backups/homeycombs/C.svg" width="60" height="60"><img src="https://github.com/SABERGLOW/SABERGLOW/blob/master/Misc/image%20backups/homeycombs/C%2B%2B.svg" width="60" height="60"><img src="https://github.com/SABERGLOW/SABERGLOW/blob/master/Misc/image%20backups/homeycombs/Python.png" width="60" height="60"><img src="https://github.com/SABERGLOW/SABERGLOW/blob/master/Misc/image%20backups/homeycombs/JAVA.png" width="60" height="60"><img src="https://github.com/SABERGLOW/SABERGLOW/blob/master/Misc/image%20backups/homeycombs/JavaScript.png" width="60" height="60"><img src="https://github.com/SABERGLOW/SABERGLOW/blob/master/Misc/image%20backups/homeycombs/SQL.png" width="60" height="60"><img src="https://github.com/SABERGLOW/SABERGLOW/blob/master/Misc/image%20backups/homeycombs/HTML5.png" width="60" height="60"><img src="https://github.com/SABERGLOW/SABERGLOW/blob/master/Misc/image%20backups/homeycombs/CSS3.png" width="60" height="60">
