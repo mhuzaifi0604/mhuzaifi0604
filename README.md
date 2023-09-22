@@ -1,4 +1,6 @@
-## Hi there 👋, I'am Huzaifa
+<h1 align="center"> Hi there 👋, I'm Huzaifa</h1>
+
+<h2 align="center"> A passionate Secure Full Stack Developer looking to collaborate on innovative development programs & performing security testing on them.</h2>
 
 * 🔭 I’m currently enrolled in bachelors program for Cyber Security & Digital Forensics.
 * 👨‍⚖️ Cyber Defense and Network Security Intern at Thincscorp 
