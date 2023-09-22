@@ -13,14 +13,28 @@ My name is Muhammad Huzaifa &
 ## Languages
 <p align="center">
 <img src="https://github.com/SABERGLOW/SABERGLOW/blob/master/Misc/image%20backups/homeycombs/C.svg" width="70" height="70"><img src="https://github.com/SABERGLOW/SABERGLOW/blob/master/Misc/image%20backups/homeycombs/C%2B%2B.svg" width="70" height="70"><img src="https://github.com/SABERGLOW/SABERGLOW/blob/master/Misc/image%20backups/homeycombs/Python.png" width="70" height="70"><img src="https://github.com/SABERGLOW/SABERGLOW/blob/master/Misc/image%20backups/homeycombs/JAVA.png" width="70" height="70"><img src="https://github.com/SABERGLOW/SABERGLOW/blob/master/Misc/image%20backups/homeycombs/JavaScript.png" width="70" height="70"><img src="https://github.com/SABERGLOW/SABERGLOW/blob/master/Misc/image%20backups/homeycombs/SQL.png" width="70" height="70"><img src="https://github.com/SABERGLOW/SABERGLOW/blob/master/Misc/image%20backups/homeycombs/HTML5.png" width="70" height="70"><img src="https://github.com/SABERGLOW/SABERGLOW/blob/master/Misc/image%20backups/homeycombs/CSS3.png" width="70" height="70">
+<img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="70" height="70"/>
+<img src="https://github.com/mhuzaifi0604/Resume/blob/main/go.svg" alt="bash" width="70" height="70"/>
+<img src="https://github.com/mhuzaifi0604/Resume/blob/main/solidity.svg" alt="bash" width="65" height="65"/>
+<img src="https://github.com/mhuzaifi0604/Resume/blob/main/typescript-2.svg" alt="bash" width="60" height="60"/>
+
 
 ## Tools
 <p align="center">
-<img src="https://github.com/huzaifi0604/huzaifi0604/blob/main/pics/353176.svg" width="65" height="65"> <img src="https://assets.tryhackme.com/img/modules/metasploit.png" width="65" height="65"> <img 
-src="https://github.com/maxogden/hexbin/blob/gh-pages/vector/wireshark.svg" width="65" height="65" style = "color:blue"> <img 
-src="https://github.com/keeferrourke/la-capitaine-icon-theme/blob/master/apps/scalable/nmap_icon.svg" width="65" height="65"> <img 
-src="https://github.com/amido/azure-vector-icons/blob/master/icons/Visual%20Studio.svg" width="65" height="65"> <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" width="65" height="65"> <img 
-src="https://github.com/huzaifi0604/huzaifi0604/blob/main/pics/2020-splunk-planet.svg" width="65" height="65">
+<img src="https://github.com/huzaifi0604/huzaifi0604/blob/main/pics/353176.svg" width="50" height="50"> <img src="https://assets.tryhackme.com/img/modules/metasploit.png" width="50" height="50"> <img 
+src="https://github.com/maxogden/hexbin/blob/gh-pages/vector/wireshark.svg" width="50" height="50" style = "color:blue"> <img 
+src="https://github.com/keeferrourke/la-capitaine-icon-theme/blob/master/apps/scalable/nmap_icon.svg" width="50" height="50"> <img 
+src="https://github.com/amido/azure-vector-icons/blob/master/icons/Visual%20Studio.svg" width="50" height="50"> <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" width="50" height="50"> <img 
+src="https://github.com/huzaifi0604/huzaifi0604/blob/main/pics/2020-splunk-planet.svg" width="50" height="50">
+<img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="50" height="50"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="50" height="50"/>
+<img src="https://adware-technologies.s3.amazonaws.com/uploads/technology/thumbnail/20/express-js.png" alt="docker" width="50" height="50"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="50" height="50"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="50" height="50"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="50" height="50"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="50" height="50"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+
 
 ## Contact Me
 <p align="center">
