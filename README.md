@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 👋, I'm Huzaifa</h1>
 
-<h2 align="center"> A passionate Secure Full Stack Developer looking to collaborate on innovative development programs & performing security testing on them.</h2>
+<h3 align="center"> A passionate Secure Full Stack Developer & Penetration Tester looking to collaborate on innovative development programs & performing security testing on them.</h3>
 
 * 🔭 I’m a final year undergrad in Cyber Security at FAST - NUCES.
 * 👨‍⚖️ Cyber Defense and Network Security Intern at Thincscorp
