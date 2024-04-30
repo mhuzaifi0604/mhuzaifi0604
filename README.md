@@ -13,7 +13,7 @@
 <p align="center">
 <img src="https://github.com/SABERGLOW/SABERGLOW/blob/master/Misc/image%20backups/homeycombs/C.svg" width="60" height="60"><img src="https://github.com/SABERGLOW/SABERGLOW/blob/master/Misc/image%20backups/homeycombs/C%2B%2B.svg" width="60" height="60"><img src="https://github.com/SABERGLOW/SABERGLOW/blob/master/Misc/image%20backups/homeycombs/Python.png" width="60" height="60"><img src="https://github.com/SABERGLOW/SABERGLOW/blob/master/Misc/image%20backups/homeycombs/JAVA.png" width="60" height="60"><img src="https://github.com/SABERGLOW/SABERGLOW/blob/master/Misc/image%20backups/homeycombs/JavaScript.png" width="60" height="60"><img src="https://github.com/SABERGLOW/SABERGLOW/blob/master/Misc/image%20backups/homeycombs/SQL.png" width="60" height="60"><img src="https://github.com/SABERGLOW/SABERGLOW/blob/master/Misc/image%20backups/homeycombs/HTML5.png" width="60" height="60"><img src="https://github.com/SABERGLOW/SABERGLOW/blob/master/Misc/image%20backups/homeycombs/CSS3.png" width="60" height="60">
 <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="60" height="60"/>
-<img src="https://github.com/mhuzaifi0604/Resume/blob/main/go.svg" alt="bash" width="60" height="60"/>
+<!-- <img src="https://github.com/mhuzaifi0604/Resume/blob/main/go.svg" alt="bash" width="60" height="60"/> -->
 <img src="https://github.com/mhuzaifi0604/Resume/blob/main/solidity.svg" alt="bash" width="65" height="65"/>
 <img src="https://github.com/mhuzaifi0604/Resume/blob/main/typescript-2.svg" alt="bash" width="60" height="60"/>
 
