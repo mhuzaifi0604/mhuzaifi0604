@@ -2,12 +2,13 @@
 
 <h3 align="center"> A passionate Secure Full Stack Developer & Penetration Tester looking to collaborate on innovative development programs & performing security testing on them.</h3>
 
-* 🔭 I’m a final year undergrad in Cyber Security at FAST - NUCES.
-* 👨‍⚖️ Cyber Defense and Network Security Intern at Thincscorp
+* 🔭 Cyber Security Graduate from FAST - NUCES.
+* 👨‍⚖️ Software Developer @ Pakistan MNP Database. (Present)
+* 💻 Software Engineer at Winston Marriot LTD.
 * 👩‍💻 Front-Developer at Codeaza Technologies, Islamabad.
 * 🧑‍💻 Trainer at Cyber Space Legion at FAST-NUCES
 * 📞 Connect with me to ask about full-stack Development (MERN, Flask, FastAPI), Malware analysis, Penetration testing & digital Forensics 
-* 👯 Looking to collaborate on Security related projects, let they be secure development program or even security testing of websites, softwares and code reviews.
+* 👯 Looking to collaborate on Security related projects, may they be secure development program or even security testing of websites, softwares and code reviews.
 
 ## Languages
 <p align="center">
