@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=6000&lines=Hi+There+%2C+I'm+Muhammad+Huzaifa.;+WELCOME+TO+MY+GITHUB.)](https://git.io/typing-svg)
 
 <h3 align="center"> A passionate Secure Full Stack Developer & Penetration Tester looking to collaborate on innovative development programs & performing security testing on them.</h3>
-<a href="https://github.com/asharbinkhalil/"><img align="right" width="300" height="300" src="https://github.com/mhuzaifi0604/mhuzaifi0604/blob/main/pics/readme.png">
+<a href="https://github.com/asharbinkhalil/"><img align="right" width="280" height="280" src="https://github.com/mhuzaifi0604/mhuzaifi0604/blob/main/pics/readme.png">
 
 * 🔭 Cyber Security Graduate from FAST - NUCES.
 * 👨‍⚖️ Software Developer @ Pakistan MNP Database. (Present)
