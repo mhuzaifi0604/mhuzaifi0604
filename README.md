@@ -1,6 +1,7 @@
-<h1 align="center">Hi there 👋, I'm Huzaifa</h1>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=6000&lines=Hi+There+%2C+I'm+Muhammad+Huzaifa.;+WELCOME+TO+MY+GITHUB.)](https://git.io/typing-svg)
 
 <h3 align="center"> A passionate Secure Full Stack Developer & Penetration Tester looking to collaborate on innovative development programs & performing security testing on them.</h3>
+<a href="https://github.com/asharbinkhalil/"><img align="right" width="330" src="https://github.com/asharbinkhalil/asharbinkhalil/blob/main/Files/cartoon-headless-man-hacking-seeklogo.com.svg">
 
 * 🔭 Cyber Security Graduate from FAST - NUCES.
 * 👨‍⚖️ Software Developer @ Pakistan MNP Database. (Present)
