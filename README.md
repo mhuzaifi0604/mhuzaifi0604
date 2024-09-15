@@ -46,7 +46,6 @@ src="https://github.com/huzaifi0604/huzaifi0604/blob/main/pics/2020-splunk-plane
 <a href = https://medium.com/@huzzaifaasim/><img src="https://github.com/huzaifi0604/huzaifi0604/blob/main/pics/icons8-medium-64.png" alt='medium' height="50"></a>
 
 
-
 ## 📈 My Github Stats:     <a href="https://github.com/mhuzaifi0604"> <img src="https://komarev.com/ghpvc/?username=mhuzaifi0604&label=Profile+Views&color=2e8b57&style=flat" /></a>
 <p align="center">
   <a href="https://github.com/mhuzaifi0604/">
