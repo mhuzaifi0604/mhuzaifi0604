@@ -16,8 +16,7 @@ When I’m not coding at work, I’m usually:
 - 📦 Publishing fun & useful side projects on [npm](https://www.npmjs.com/~mhuzaifi0604).
 - 🤖 Automating repetitive dev work so others don’t waste time doing **khuwari**.
 
-Let’s build something **amazing**.  
-Or better yet—**let’s break it, fix it, and make it bulletproof.** 💥
+Let’s build something **amazing** together.
 
 ---
 
@@ -110,5 +109,3 @@ Or better yet—**let’s break it, fix it, and make it bulletproof.** 💥
 
 
 ---
-
-<p align="center">💡 _"Build it. Break it. Secure it. Automate it."_ — Muhammad Huzaifa</p>
