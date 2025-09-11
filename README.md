@@ -13,7 +13,7 @@ I'm a **Cyber Security graduate** and a **Full Stack Developer** passionate abou
 When I’m not coding at work, I’m usually:
 - 🔐 Applying cyber knowledge to harden my own stacks.
 - 🗣️ Building real-time voice chatbot tools using OpenAI.
-- 📦 Publishing fun & useful side projects on [npm](https://www.npmjs.com/~mhuzaifi0604).
+- 📦 Publishing fun & useful side projects on [npm]([https://www.npmjs.com/~mhuzaifi0604](https://www.npmjs.com/settings/muhammad-huzaifa/packages)).
 - 🤖 Automating repetitive dev work so others don’t waste time doing **khuwari**.
 
 Let’s build something **amazing** together.
