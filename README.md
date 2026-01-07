@@ -37,14 +37,13 @@ Let’s build something **amazing** together.
 
 ---
 
-### 🛠 Tools I Love
+### 🛠 Tools I Use
 <p align="center">
   <img src="https://github.com/huzaifi0604/huzaifi0604/blob/main/pics/353176.svg" width="50" height="50" style="filter: drop-shadow(0px 0px 8px #68a063);"/>
   <img src="https://assets.tryhackme.com/img/modules/metasploit.png" width="50" height="50" style="filter: drop-shadow(0px 0px 8px #ff0000);"/>
   <img src="https://github.com/maxogden/hexbin/blob/gh-pages/vector/wireshark.svg" width="50" height="50" style="filter: drop-shadow(0px 0px 8px #2c97de);"/>
   <img src="https://github.com/keeferrourke/la-capitaine-icon-theme/blob/master/apps/scalable/nmap_icon.svg" width="50" height="50" style="filter: drop-shadow(0px 0px 8px #00ffbf);"/>
   <img src="https://github.com/huzaifi0604/huzaifi0604/blob/main/pics/2020-splunk-planet.svg" width="50" height="50" style="filter: drop-shadow(0px 0px 8px #ff8800);"/>
-  <img src="https://adware-technologies.s3.amazonaws.com/uploads/technology/thumbnail/20/express-js.png" width="50" height="50" style="filter: drop-shadow(0px 0px 8px #cccccc);"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="50" height="50" style="filter: drop-shadow(0px 0px 8px #61dafb);"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="50" height="50" style="filter: drop-shadow(0px 0px 8px #3c873a);"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="50" height="50" style="filter: drop-shadow(0px 0px 8px #0db7ed);"/>
@@ -71,41 +70,41 @@ Let’s build something **amazing** together.
     <img
       height="200px"
       style="margin-right: 10px;"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhuzaifi0604&langs_count=8&layout=compact&hide_border=true&border_radius=15&line_height=24&card_width=380&title_color=ffffff&text_color=ffffff&bg_color=90,2c5364,203a43,0f2027"
+      src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=mhuzaifi0604&langs_count=8&layout=compact&hide_border=true&border_radius=15&line_height=24&card_width=380&title_color=ffffff&text_color=ffffff&bg_color=90,2c5364,203a43,0f2027"
     />
   </a>
   <a href="https://github.com/mhuzaifi0604">
     <img
       height="200px"
-      src="https://github-readme-stats.vercel.app/api?username=mhuzaifi0604&count_private=true&include_all_commits=true&show_icons=true&hide_border=true&border_radius=15&line_height=24&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=90,0f2027,203a43,2c5364"
+      src="https://github-readme-stats-fast.vercel.app/api?username=mhuzaifi0604&count_private=true&include_all_commits=true&show_icons=true&hide_border=true&border_radius=15&line_height=24&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=90,0f2027,203a43,2c5364"
     />
   </a>
 </p>
-
 
 ---
 
 ### 🌟 Featured Projects
 <p align="center">
   <a href="https://github.com/mhuzaifi0604/Innocent-Shell">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mhuzaifi0604&repo=Innocent-Shell&hide_border=true&border_radius=15&title_color=ffffff&text_color=ffffff&bg_color=90,0f2027,203a43,2c5364" />
+    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=mhuzaifi0604&repo=Innocent-Shell&hide_border=true&border_radius=15&title_color=ffffff&text_color=ffffff&bg_color=90,0f2027,203a43,2c5364" />
   </a>
   <a href="https://github.com/mhuzaifi0604/spellbound">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mhuzaifi0604&repo=spellbound&hide_border=true&border_radius=15&title_color=ffffff&text_color=ffffff&bg_color=90,0f2027,203a43,2c5364" />
+    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=mhuzaifi0604&repo=spellbound&hide_border=true&border_radius=15&title_color=ffffff&text_color=ffffff&bg_color=90,0f2027,203a43,2c5364" />
   </a>
   <a href="https://github.com/mhuzaifi0604/Sorting-Visualizer">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mhuzaifi0604&repo=Sorting-Visualizer&hide_border=true&border_radius=15&title_color=ffffff&text_color=ffffff&bg_color=90,0f2027,203a43,2c5364" />
+    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=mhuzaifi0604&repo=Sorting-Visualizer&hide_border=true&border_radius=15&title_color=ffffff&text_color=ffffff&bg_color=90,0f2027,203a43,2c5364" />
   </a>
   <a href="https://github.com/mhuzaifi0604/Port-Knocker">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mhuzaifi0604&repo=port-knocker&hide_border=true&border_radius=15&title_color=ffffff&text_color=ffffff&bg_color=90,0f2027,203a43,2c5364" />
+    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=mhuzaifi0604&repo=port-knocker&hide_border=true&border_radius=15&title_color=ffffff&text_color=ffffff&bg_color=90,0f2027,203a43,2c5364" />
   </a>
   <a href="https://github.com/mhuzaifi0604/Debit-Hub">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mhuzaifi0604&repo=Debit-Hub&hide_border=true&border_radius=15&title_color=ffffff&text_color=ffffff&bg_color=90,0f2027,203a43,2c5364" />
+    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=mhuzaifi0604&repo=Debit-Hub&hide_border=true&border_radius=15&title_color=ffffff&text_color=ffffff&bg_color=90,0f2027,203a43,2c5364" />
   </a>
   <a href="https://github.com/mhuzaifi0604/Learning-Management-System">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mhuzaifi0604&repo=Learning-Management-System&hide_border=true&border_radius=15&title_color=ffffff&text_color=ffffff&bg_color=90,0f2027,203a43,2c5364" />
+    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=mhuzaifi0604&repo=Learning-Management-System&hide_border=true&border_radius=15&title_color=ffffff&text_color=ffffff&bg_color=90,0f2027,203a43,2c5364" />
   </a>
 </p>
+
 
 
 ---
