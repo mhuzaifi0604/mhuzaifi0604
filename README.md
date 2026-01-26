@@ -101,14 +101,14 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/mhuzaifi0604/">
+  <a href="https://github.com/mhuzaifi0604/" width="45%">
     <img
       height="200px"
       style="margin-right: 10px;"
       src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=mhuzaifi0604&langs_count=8&layout=compact&hide_border=true&border_radius=15&line_height=24&card_width=380&title_color=ff8c00&text_color=e5e7eb&bg_color=90,0d1117,1a1a1a,000000"
     />
   </a>
-  <a href="https://github.com/mhuzaifi0604">
+  <a href="https://github.com/mhuzaifi0604" width="45%">
     <img
       height="200px"
       src="https://github-readme-stats-fast.vercel.app/api?username=mhuzaifi0604&count_private=true&include_all_commits=true&show_icons=true&hide_border=true&border_radius=15&line_height=24&title_color=ff8c00&text_color=e5e7eb&icon_color=ff8c00&bg_color=90,1a1a1a,0d1117,000000"
